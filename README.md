@@ -38,17 +38,15 @@ I'm a passionate developer with expertise in Flutter and Android development. I 
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)&nbsp;
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)&nbsp;
 [![Talend](https://img.shields.io/badge/Talend-FF6C37?style=flat&logo=talend&logoColor=white)](https://www.talend.com/)&nbsp;
-[![Firebase](https://img.shields.io/badge/Firebase-FF6C37?style=flat&logo=firebase&logoColor=white)](https://firebase.google.com/)&nbsp;
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)](https://firebase.google.com/)&nbsp;
 
 
 ## 📂 Projects
-### Project 1: [Project Name](Project URL)
-Description: Briefly describe what this project does and the main features.
+### Project 1: Classroom App ("https://github.com/Arpitpatel259/Classroom_App")
+Description: It is an application that interact with students and teachers. The project provides online platform to accomplish
+day to day department level Work and provide information of the Work to specified user.
 
-### Project 2: [Project Name](Project URL)
-Description: Briefly describe what this project does and the main features.
-
-### Project 3: [Project Name](Project URL)
+### Project 2: CRUD using SQFLITE ("https://github.com/Arpitpatel259/CRUD_SQFLITE_Flutter")
 Description: Briefly describe what this project does and the main features.
 
 > For more projects, check out [My Repositories](https://github.com/Arpitpate259?tab=repositories)
