@@ -47,7 +47,19 @@ Description: It is an application that interact with students and teachers. The 
 day to day department level Work and provide information of the Work to specified user.
 
 ### Project 2:  [CRUD using SQFLITE](https://github.com/Arpitpatel259/CRUD_SQFLITE_Flutter)
-Description: Briefly describe what this project does and the main features.
+Description: This project demonstrates a simple CRUD (Create, Read, Update, Delete) operation in a Flutter application using the SQFLITE plugin for local database management. SQFLITE is a SQLite plugin for Flutter, providing a persistent storage solution for managing structured data within the app.
+
+Features:
+
+Create: Add new records to the local database.
+Read: Retrieve and display records from the database in a list view.
+Update: Modify existing records and save changes back to the database.
+Delete: Remove records from the database.
+Technologies Used:
+
+Flutter: For building the cross-platform mobile application.
+Dart: The programming language used in Flutter.
+SQFLITE: SQLite plugin for Flutter for local database operations.
 
 > For more projects, check out [My Repositories](https://github.com/Arpitpatel259?tab=repositories)
 
