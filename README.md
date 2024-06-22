@@ -19,7 +19,7 @@ I'm a passionate developer with expertise in Flutter and Android development. I 
   </a>&nbsp;&nbsp;
 
   <a href="http://arpit-blog.epizy.com">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About&logoColor=white" alt="Portfolio Badge"/>
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>&nbsp;&nbsp;
 
 </div>
