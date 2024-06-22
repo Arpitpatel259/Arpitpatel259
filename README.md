@@ -11,15 +11,15 @@ I'm a passionate developer with expertise in Flutter and Android development. I 
 <div id="badges">
 
   <a href="https://github.com/Arpitpatel259">
-      <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+      <img src="https://img.shields.io/badge/Github-white?style=flat&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>&nbsp;&nbsp;
 
   <a href="mailto:aj.vekariya123@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email Badge"/>
   </a>&nbsp;&nbsp;
 
   <a href="http://arpit-blog.epizy.com">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>&nbsp;&nbsp;
 
 </div>
