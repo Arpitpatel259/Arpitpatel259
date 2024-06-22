@@ -38,7 +38,7 @@ I'm a passionate developer with expertise in Flutter and Android development. I 
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)&nbsp;
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)&nbsp;
 [![Talend](https://img.shields.io/badge/Talend-FF6C37?style=flat&logo=talend&logoColor=white)](https://www.talend.com/)&nbsp;
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)&nbsp;
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)&nbsp;
 
 
 ## 📂 Projects
