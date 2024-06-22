@@ -11,7 +11,7 @@ I'm a passionate developer with expertise in Flutter and Android development. I 
 <div id="badges">
 
   <a href="https://github.com/Arpitpatel259">
-      <img src="https://img.shields.io/badge/Github-white?style=flat&logo=Github&logoColor=black" alt="Github Badge"/>
+      <img src="https://img.shields.io/badge/Github-white?style=flat&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>&nbsp;&nbsp;
 
   <a href="mailto:aj.vekariya123@gmail.com">
