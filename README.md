@@ -49,7 +49,7 @@ day to day department level Work and provide information of the Work to specifie
 ### Project 2: CRUD using SQFLITE ("https://github.com/Arpitpatel259/CRUD_SQFLITE_Flutter")
 Description: Briefly describe what this project does and the main features.
 
-> For more projects, check out [My Repositories](https://github.com/Arpitpate259?tab=repositories)
+> For more projects, check out [My Repositories](https://github.com/Arpitpatel259?tab=repositories)
 
 ## ☕ Support Me
 <br>
