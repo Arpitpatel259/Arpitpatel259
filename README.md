@@ -42,11 +42,11 @@ I'm a passionate developer with expertise in Flutter and Android development. I 
 
 
 ## 📂 Projects
-### Project 1: Classroom App ("https://github.com/Arpitpatel259/Classroom_App")
+### Project 1: [Classroom App]("https://github.com/Arpitpatel259/Classroom_App")
 Description: It is an application that interact with students and teachers. The project provides online platform to accomplish
 day to day department level Work and provide information of the Work to specified user.
 
-### Project 2: CRUD using SQFLITE ("https://github.com/Arpitpatel259/CRUD_SQFLITE_Flutter")
+### Project 2: [CRUD using SQFLITE] ("https://github.com/Arpitpatel259/CRUD_SQFLITE_Flutter")
 Description: Briefly describe what this project does and the main features.
 
 > For more projects, check out [My Repositories](https://github.com/Arpitpatel259?tab=repositories)
