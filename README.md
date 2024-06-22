@@ -14,6 +14,9 @@ I'm a passionate developer with expertise in Flutter and Android development. I 
   </a>
 </div>
 
+## Language and tools :
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+
 ## 🛠️ Skills
 ### Languages & Frameworks
 - **Flutter**: Dart.
