@@ -7,9 +7,8 @@ I'm a passionate developer with expertise in Flutter and Android development. I 
 - 🌱 I’m currently learning Flutter
 - ⚡ Fun fact: I'm comming to teen
 
-## Connect with me : 
+## 📫 Connect with Me
 <div id="badges">
-  ## 📫 Connect with Me
 
   <a href="https://github.com/Arpitpatel259">
       <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
