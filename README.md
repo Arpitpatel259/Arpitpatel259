@@ -1,28 +1,24 @@
-# Hi there 👋, I'm [Your Name]
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+# Hi there 👋, I'm Arpit Vekariya
 
 ## 🚀 About Me
 I'm a passionate developer with expertise in Flutter and Android development. I love creating beautiful and functional mobile applications. My goal is to build products that not only meet the requirements but also provide an excellent user experience.
 
-- 🌍 I'm based in [Your Location]
-- 🖥️ See my portfolio at [Your Portfolio URL]
-- ✉️ You can reach me at [Your Email]
-- 📝 I regularly write articles on [Your Blog URL]
-- 📄 Know about my experiences [Your Resume/CV URL]
+- 🌍 I'm based in Surat, Gujarat
+- 🖥️ See my portfolio at http://arpit-blog.epizy.com
+- ✉️ You can reach me at aj.vekariya123@gmail.com
 
 ## 🛠️ Skills
 ### Languages & Frameworks
 - **Flutter**: Dart
-- **Android**: Java, Kotlin
-- **Backend**: Node.js, Firebase, REST APIs
-- **Others**: HTML, CSS, JavaScript
+- **Android**: Java,
+- **Backend**: PHP, Firebase, APIs
+- **Others**: HTML, CSS,
 
 ### Tools & Technologies
 - **IDEs**: Android Studio, VS Code
 - **Version Control**: Git, GitHub
-- **Database**: SQLite, Firebase Firestore
-- **Other Tools**: Postman, Figma, Adobe XD
+- **Database**: SQFLite, Firebase Firestore
+- **Other Tools**: Postman, Talend API Tester
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
