@@ -7,12 +7,19 @@ I'm a passionate developer with expertise in Flutter and Android development. I 
 - 🖥️ See my portfolio at http://arpit-blog.epizy.com
 - ✉️ You can reach me at aj.vekariya123@gmail.com
 
+## Connect with me : 
+<div id="badges">
+  <a href="https://github.com/Arpitpatel259">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+</div>
+
 ## 🛠️ Skills
 ### Languages & Frameworks
-- **Flutter**: Dart
-- **Android**: Java,
-- **Backend**: PHP, Firebase, APIs
-- **Others**: HTML, CSS,
+- **Flutter**: Dart.
+- **Android**: Java.
+- **Backend**: PHP, Firebase, APIs.
+- **Others**: HTML, CSS.
 
 ### Tools & Technologies
 - **IDEs**: Android Studio, VS Code
