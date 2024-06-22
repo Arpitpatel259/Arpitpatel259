@@ -55,23 +55,8 @@ Description: Briefly describe what this project does and the main features.
 ### Project 3: [Project Name](Project URL)
 Description: Briefly describe what this project does and the main features.
 
-> For more projects, check out [My Repositories](https://github.com/yourusername?tab=repositories)
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Post Title](Post URL)
-- [Post Title](Post URL)
-- [Post Title](Post URL)
-<!-- BLOG-POST-LIST:END -->
-
-## 📫 Connect with Me
-[![Indeed](https://img.shields.io/badge/Indeed-blue?style=flat&logo=indeed&labelColor=blue)](Your_Indeed_Profile_Link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/yourusername)
-[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&labelColor=black)](https://medium.com/@yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black)](https://github.com/yourusername)
+> For more projects, check out [My Repositories](https://github.com/Arpitpate259?tab=repositories)
 
 ## ☕ Support Me
-If you like my work and want to support me, you can buy me a coffee!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-grey?style=flat&logo=buy-me-a-coffee&labelColor=black)](https://www.buymeacoffee.com/yourusername)
+<br>
+⭐️ From [axiftaj](https://github.com/Arpitpatel259)
