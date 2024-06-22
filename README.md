@@ -50,6 +50,5 @@ Description: This project demonstrates a simple CRUD (Create, Read, Update, Dele
 
 > For more projects, check out [My Repositories](https://github.com/Arpitpatel259?tab=repositories)
 
-## ☕ Support Me
 <br>
 ⭐️ From [Arpit Vekariya](https://github.com/Arpitpatel259)
