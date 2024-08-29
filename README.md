@@ -8,21 +8,11 @@ I'm a passionate developer with expertise in Flutter and Android development. I 
 - ⚡ Fun fact: I'm comming to teen
 
 ## 📫 Connect with Me
-<div id="badges">
 
-  <a href="https://github.com/Arpitpatel259">
-      <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" alt="Github Badge"/>
-  </a>&nbsp;&nbsp;
+[![Github Badge](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/Arpitpatel259)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:aj.vekariya123@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](http://arpit-blog.epizy.com)
 
-  <a href="mailto:aj.vekariya123@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email Badge"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="http://arpit-blog.epizy.com">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
-  </a>&nbsp;&nbsp;
-
-</div>
 
 ## 🛠️ Skills
 ### Languages & Frameworks
