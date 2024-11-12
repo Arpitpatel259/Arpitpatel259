@@ -4,6 +4,7 @@
 I'm a passionate developer with expertise in Flutter and Android development. I love creating beautiful and functional mobile applications. My goal is to build products that not only meet the requirements but also provide an excellent user experience.
 
 - 🌍 I'm based in Surat, Gujarat
+- 🏢 Owner of **Kanudo Infotech** in Ahmedabad, Gujarat
 - 🌱 I’m currently learning Flutter
 - ⚡ Fun fact: I'm comming to teen
 
